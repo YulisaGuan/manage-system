@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Manage System"/>
+  <HelloWorld msg="Welcome to FS Manage System"/>
 </template>
 
 <script>
